@@ -485,3 +485,11 @@ import random as rand
 #     for line in f:
 #         fi.write(line)
 
+# with open("teo.txt",'w') as te:
+#     for i in range(1,11):
+#         te.write(f"2X{i}={2*i}\n")
+
+# with open("ohis.txt",'w') as oh:
+#     with open("teo.txt",'r') as p:
+#         for line in p:
+#             oh.write(line)
