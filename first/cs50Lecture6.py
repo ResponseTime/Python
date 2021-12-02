@@ -10,3 +10,10 @@ import django as dj
 # se.add(133)
 # print(s.union(se))
 # print(s.intersection(se)
+
+# c = input("Enter y/n: ").lower()
+# if c == 'y' or c=='Y':
+#     print("Yes")
+# elif c == 'n' or c == 'N':
+#     print("No")
+

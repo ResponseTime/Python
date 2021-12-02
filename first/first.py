@@ -493,3 +493,17 @@ import random as rand
 #     with open("teo.txt",'r') as p:
 #         for line in p:
 #             oh.write(line)
+
+# opn = open("DEMO.txt",'w')
+# for line in range(0,11):
+#     opn.write(f"{line} is noob\n")
+
+# opn.close()
+# er = open("DEMO.txt",'w')
+# er.write(" ")
+
+# class fed:
+#     def fd():
+#         print("hello")
+
+# fed.fd()        
